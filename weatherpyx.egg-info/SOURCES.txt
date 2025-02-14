@@ -1,0 +1,12 @@
+README.md
+setup.py
+weatherpyx/__init__.py
+weatherpyx/cli.py
+weatherpyx/config.py
+weatherpyx/weather.py
+weatherpyx.egg-info/PKG-INFO
+weatherpyx.egg-info/SOURCES.txt
+weatherpyx.egg-info/dependency_links.txt
+weatherpyx.egg-info/entry_points.txt
+weatherpyx.egg-info/requires.txt
+weatherpyx.egg-info/top_level.txt
