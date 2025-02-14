@@ -11,4 +11,4 @@ WeatherPyx is an elegant and simple wrapper for the OpenWeatherMap API that allo
 - 🐍 Easy integration into Python code
 - 📱 Location auto-detection (with optional module)
 
-**Threads:** [Visit my profile on Threads](https://www.threads.net/@augusst_morales?hl=es-la)s
+**Threads:** [Visit my profile on Threads](https://www.threads.net/@augusst_morales?hl=es-la)
